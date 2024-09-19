@@ -1,3 +1,7 @@
+//    RSA (Rivest–Shamir–Adleman) is a public-key framework
+//    Version 1.00
+//    Copyright 1998 Steven James (www.perfectconsulting.co.uk)
+
 #include "vlong.hpp"
 
 class public_key
