@@ -1,3 +1,7 @@
+//    Blowfish symmetric-key block cipher
+//    Version 1.00
+//    Copyright 1998 Steven James (www.perfectconsulting.co.uk)
+
 #include "windows.h"
 
 #define MAXKEYBYTES 56	/* 448 bits */
