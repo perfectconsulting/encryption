@@ -1,3 +1,7 @@
+//    Large integer support class
+//    Version 1.00
+//    Copyright 1998 Steven James (www.perfectconsulting.co.uk)
+
 class vlong // very long integer - can be used like long
 {
 public:
