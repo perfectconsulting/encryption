@@ -1,3 +1,7 @@
+//    Blowfish symmetric-key block cipher
+//    Version 1.00
+//    Copyright 1998 Steven James (www.perfectconsulting.co.uk)
+
 /* TODO: test with zero length key */
 /* TODO: test with a through z as key and plain text */
 /* TODO: make this byte order independent */
